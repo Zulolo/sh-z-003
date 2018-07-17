@@ -1,0 +1,82 @@
+(ExpressProject "sh-z-003"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "g:\cadence\schematic_lib\core.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\sh-z-003.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (MIC29302
+      (FullPartName "MIC29302.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (MIC29302WU
+      (FullPartName "MIC29302WU.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (STM32F407VET
+      (FullPartName "STM32F407VET.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (RX-8025SA
+      (FullPartName "RX-8025SA.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (SIM7600CE
+      (FullPartName "SIM7600CE.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn")
+      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 558"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1769 156 753")
+        (Scroll "-239 0")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "internet"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1579 260 857")
+        (Scroll "-92 0")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "control"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
+        (Scroll "83 329")
+        (Zoom "224")
+        (Occurrence "/"))
+      (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "power")))
+  (MPSSessionName "dodol"))
