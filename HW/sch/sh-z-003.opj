@@ -13,6 +13,34 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (IPX
+      (FullPartName "IPX.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE BI-DIR TRIG"
+      (FullPartName "DIODE BI-DIR TRIG.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TVS"
+      (FullPartName "DIODE TVS.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("NPN BEC"
+      (FullPartName "NPN BEC.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("NPN BCE"
+      (FullPartName "NPN BCE.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (SIM_card_slot
+      (FullPartName "SIM_card_slot.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (SMF05C
+      (FullPartName "SMF05C.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
     (MIC29302
       (FullPartName "MIC29302.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
@@ -36,11 +64,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn")
-      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn"
+      (Path "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn")
+      (Path "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
          "SCHEMATIC1")
-      (Path "Design Resources" "G:\Work\sh-z-003\design\HW\sch\sh-z-003.dsn"
-         "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb"))
     (HierarchyView)
@@ -73,10 +99,22 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "83 329")
+        (Scroll "0 121")
         (Zoom "224")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "power")))
-  (MPSSessionName "dodol"))
+      (Page "power"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1527 208 805")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3507 1463")
+        (Zoom "653"))
+      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (Package "IPX")))
+  (MPSSessionName "dodol")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
