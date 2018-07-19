@@ -13,6 +13,14 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (C2X5
+      (FullPartName "C2X5.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (RX-8025SA
+      (FullPartName "RX-8025SA.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
     (IPX
       (FullPartName "IPX.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
@@ -53,10 +61,6 @@
       (FullPartName "STM32F407VET.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
       (DeviceIndex "0"))
-    (RX-8025SA
-      (FullPartName "RX-8025SA.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
     (SIM7600CE
       (FullPartName "SIM7600CE.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
@@ -68,13 +72,25 @@
       (Path "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb"))
+      (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb")
+      (Select "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 558"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 558"))
       (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1527 208 805")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3507 1463")
+        (Zoom "653"))
+      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (Package "IPX"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
@@ -88,8 +104,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1579 260 857")
-        (Scroll "-92 0")
+        (Placement "44 2 3 -1 -1 -8 -31 260 1579 260 857")
+        (Scroll "-230 -9")
         (Zoom "112")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
@@ -99,22 +115,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "0 121")
-        (Zoom "224")
+        (Scroll "-92 0")
+        (Zoom "112")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "power"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1527 208 805")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3507 1463")
-        (Zoom "653"))
-      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (Package "IPX")))
+      (Page "power")))
   (MPSSessionName "dodol")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
