@@ -13,6 +13,62 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE23
+      (FullPartName "DIODE23.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE21
+      (FullPartName "DIODE21.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE13
+      (FullPartName "DIODE13.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE PIN"
+      (FullPartName "DIODE PIN.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE 34/DPAK"
+      (FullPartName "DIODE 34/DPAK.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE 34/DD"
+      (FullPartName "DIODE 34/DD.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SM712
+      (FullPartName "SM712.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TS"
+      (FullPartName "DIODE TS.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SN65HVD72DR
+      (FullPartName "SN65HVD72DR.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (C1X2
+      (FullPartName "C1X2.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    (OPT_sgl
+      (FullPartName "OPT_sgl.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR-A"
+      (FullPartName "OPTO ISOLATOR-A.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR"
+      (FullPartName "OPTO ISOLATOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (C2X5
       (FullPartName "C2X5.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
@@ -56,14 +112,6 @@
     (MIC29302WU
       (FullPartName "MIC29302WU.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
-    (STM32F407VET
-      (FullPartName "STM32F407VET.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
-    (SIM7600CE
-      (FullPartName "SIM7600CE.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -73,7 +121,8 @@
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb")
-      (Select "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb"))
+      (Select "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
+         "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -92,11 +141,22 @@
       (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
       (Package "IPX"))
     (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1267 26 703")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3868 1983")
+        (Zoom "751"))
+      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (Package "SN65HVD72DR"))
+    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1769 156 753")
-        (Scroll "-239 0")
-        (Zoom "112")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1769 156 753")
+        (Scroll "-123 -9")
+        (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
@@ -104,9 +164,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 260 1579 260 857")
-        (Scroll "-230 -9")
-        (Zoom "112")
+        (Placement "44 0 1 -1 -1 -8 -31 260 1579 260 857")
+        (Scroll "0 0")
+        (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
@@ -115,8 +175,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "-92 0")
-        (Zoom "112")
+        (Scroll "0 0")
+        (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
