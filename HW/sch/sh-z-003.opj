@@ -9,10 +9,46 @@
     (File ".\sh-z-003.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (SIM_card_slot
+      (FullPartName "SIM_card_slot.Normal")
+      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE ZENER"
+      (FullPartName "DIODE ZENER.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TVS"
+      (FullPartName "DIODE TVS.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TS"
+      (FullPartName "DIODE TS.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE TAZ"
+      (FullPartName "DIODE TAZ.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (DIODE
       (FullPartName "DIODE.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -44,10 +80,6 @@
     (SM712
       (FullPartName "SM712.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
-    ("DIODE TS"
-      (FullPartName "DIODE TS.Normal")
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (SN65HVD72DR
       (FullPartName "SN65HVD72DR.Normal")
@@ -85,10 +117,6 @@
       (FullPartName "DIODE BI-DIR TRIG.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    ("DIODE TVS"
-      (FullPartName "DIODE TVS.Normal")
-      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
     ("NPN BEC"
       (FullPartName "NPN BEC.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
@@ -97,20 +125,8 @@
       (FullPartName "NPN BCE.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0"))
-    (SIM_card_slot
-      (FullPartName "SIM_card_slot.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
     (SMF05C
       (FullPartName "SMF05C.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
-    (MIC29302
-      (FullPartName "MIC29302.Normal")
-      (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (DeviceIndex "0"))
-    (MIC29302WU
-      (FullPartName "MIC29302WU.Normal")
       (LibraryName "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
       (DeviceIndex "0")))
   (GlobalState
@@ -121,8 +137,7 @@
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb")
-      (Select "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
-         "Design Cache"))
+      (Select "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -130,32 +145,10 @@
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 558"))
       (Tab 0))
     (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1527 208 805")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3507 1463")
-        (Zoom "653"))
-      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (Package "IPX"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1267 26 703")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3868 1983")
-        (Zoom "751"))
-      (Path "G:\CADENCE\SCHEMATIC_LIB\CORE.OLB")
-      (Package "SN65HVD72DR"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1769 156 753")
-        (Scroll "-123 -9")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1769 156 753")
+        (Scroll "-132 0")
         (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
