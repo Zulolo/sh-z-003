@@ -25,8 +25,34 @@
     (Annotate_type "Default")
     (width_pages "100")
     (width_start "80")
-    (width_End "80"))
-  (Folder "Outputs")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "G:\WORK\SH-Z-003\DESIGN\HW\PCB")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SH-Z-003.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File "..\pcb\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pcb\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pcb\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (SIM_card_slot
@@ -136,13 +162,13 @@
       (Path "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "g:\cadence\schematic_lib\core.olb")
+      (Path "Outputs")
       (Select "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 558"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 558"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -175,4 +201,5 @@
       (Schematic "SCHEMATIC1")
       (Page "power")))
   (MPSSessionName "dodol")
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
