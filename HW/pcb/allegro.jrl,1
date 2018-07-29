@@ -1,0 +1,114 @@
+\t (00:00:00) allegro 17.2 S007 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Jul 29 10:57:38 2018
+\t (00:00:00)         Host=ZULOLO-PC User=dodol Pid=10568 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+   (00:00:00) *Error* load: can't access file - "J:\\Cadence\\pcbenv\\DstCxi.il"
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: G:/Work/sh-z-003/design/HW/pcb/sh-z-003.brd
+\t (00:00:02) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:02) trapsize 5587
+\i (00:00:02) trapsize 5714
+\t (00:00:02) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:02) trapsize 5714
+\i (00:00:02) etchedit 
+\i (00:00:05) netin 
+\i (00:00:06) setwindow form.niparams
+\i (00:00:06) FORM niparams import  
+\t (00:00:06) Starting Cadence Logic Import...
+\t (00:00:07) Opening existing design...
+\t (00:00:07) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:07) setwindow pcb
+\i (00:00:07) trapsize 5714
+\i (00:00:08) etchedit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 83.6572 43.6572
+\t (00:00:09) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:09) trapsize 11429
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 29.5429 87.8286
+\t (00:00:10) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:10) trapsize 5714
+\i (00:00:11) roam start
+\i (00:00:11) roam x -112
+\i (00:00:11) roam x -48
+\i (00:00:11) roam y -32
+\i (00:00:11) roam end
+\i (00:00:13) move 
+\t (00:00:13) Select element(s) to move.
+\i (00:00:14) drag_start grid -5.3143 127.4857
+\i (00:00:15) drag_stop 91.7143 89.7714
+\i (00:00:15) pick grid 55.9429 111.9428
+\t (00:00:15) last pick:  55.9000 111.9000
+\t (00:00:15) Moving D11 / DIODE TVS_SOD123_5.1V / SOD123.
+\t (00:00:15) Moving R11 / RESISTOR_SMD_R_0805_0R / SMD_R_0805.
+\t (00:00:15) Moving D9 / DIODE TVS_SOD123_5.1V / SOD123.
+\t (00:00:15) Moving R15 / RESISTOR_SMD_R_0805_4.7K / SMD_R_0805.
+\t (00:00:15) Moving D12 / LED_SMD_D_0805_RED / SMD_D_0805.
+\t (00:00:15) Moving D2 / LED_SMD_D_0805_GREEN / SMD_D_0805.
+\t (00:00:15) Moving R20 / RESISTOR_SMD_R_0805_4.7K / SMD_R_0805.
+\t (00:00:15) Moving C24 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving R2 / RESISTOR_SMD_R_0805_10K / SMD_R_0805.
+\t (00:00:15) Moving D5 / DIODE_SMAF_SS32F / SMAF.
+\t (00:00:15) Moving R19 / RESISTOR_SMD_R_0805_47K / SMD_R_0805.
+\t (00:00:15) Moving R30 / RESISTOR_SMD_R_0805_47K / SMD_R_0805.
+\t (00:00:15) Moving Q2 / NPN BEC_SOT23_BC807_BC817-40 / SOT23_BC807.
+\t (00:00:15) Moving D7 / DIODE_SMAF_SS32F / SMAF.
+\t (00:00:15) Moving R22 / RESISTOR_SMD_R_0805_1.2K / SMD_R_0805.
+\t (00:00:15) Moving D8 / DIODE_SMAF_SS32F / SMAF.
+\t (00:00:15) Moving R25 / RESISTOR_SMD_R_0805_10R / SMD_R_0805.
+\t (00:00:15) Moving R26 / RESISTOR_SMD_R_0805_22R / SMD_R_0805.
+\t (00:00:15) Moving R8 / RESISTOR_SMD_R_0805_10R / SMD_R_0805.
+\t (00:00:15) Moving F1 / FUSE_SMD_R_0805_2A / SMD_R_0805.
+\t (00:00:15) Moving R29 / RESISTOR_SMD_R_0805_100K / SMD_R_0805.
+\t (00:00:15) Moving C21 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving R31 / RESISTOR_SMD_R_0805_470R / SMD_R_0805.
+\t (00:00:15) Moving C20 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving Q1 / NPN BEC_SOT23_BC807_BC817-40 / SOT23_BC807.
+\t (00:00:15) Moving J10 / C1X2_C1X2NEW_RS485 / C1X2NEW.
+\t (00:00:15) Moving C15 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving Q3 / NPN BEC_SOT23_BC807_BC817-40 / SOT23_BC807.
+\t (00:00:15) Moving C2 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C14 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving D4 / SM712_SOT23_D_SM712 / SOT23_D.
+\t (00:00:15) Moving C13 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C19 / CAP NP_SMD_C_0805_10UF / SMD_C_0805.
+\t (00:00:15) Moving C12 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C43 / CAP NP_SMD_C_0805_1UF / SMD_C_0805.
+\t (00:00:15) Moving C36 / CAP POL_DIP_2P_5MM_1F/5.5V / DIP_2P_5MM.
+\t (00:00:15) Moving C1 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C5 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving J4 / C1X2_C1X2NEW_ELS / C1X2NEW.
+\t (00:00:15) Moving C44 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C25 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C41 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C3 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C6 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving J5 / C1X2_C1X2NEW_DOOR / C1X2NEW.
+\t (00:00:15) Moving C9 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C17 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C10 / CAP NP_SMD_C_0805_10UF / SMD_C_0805.
+\t (00:00:15) Moving C34 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C4 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C31 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving C7 / CAP NP_SMD_C_0805_100NF / SMD_C_0805.
+\t (00:00:15) Moving D1 / DIODE TS_DO-214AC_SMAJ6.5CA / DO-214AC.
+\t (00:00:15) Pick new location for the element(s).
+\i (00:00:16) pick grid 55.1429 98.0000
+\t (00:00:16) last pick:  55.1000 98.0000
+\i (00:00:17) prepopup 68.8571 126.3428
+\i (00:00:18) done 
+\i (00:00:18) etchedit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 103.6000 108.2857
+\t (00:00:18) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:00:18) trapsize 11429
+\i (00:00:20) save 
+\i (00:00:22) fillin yes 
+\i (00:00:22) etchedit 
+\i (00:00:22) exit 
+\t (00:00:23)     Journal end - Sun Jul 29 10:58:01 2018

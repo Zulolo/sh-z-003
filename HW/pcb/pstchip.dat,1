@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jul-24-2018 at 21:41:09}
+{ Using PSTWRITER 17.2.0 d001Jul-27-2018 at 22:45:12}
 primitive 'CAP NP_SMD_C_0805_100NF';
   pin
     '1':
@@ -225,7 +225,7 @@ primitive 'SM712_SOT23_D_SM712';
     VALUE='SM712';
   end_body;
 end_primitive;
-primitive 'DIODE_SMD_D_1206_1N4148W';
+primitive 'DIODE_SMAF_SS32F';
   pin
     'A':
       PIN_NUMBER='(2)';
@@ -236,23 +236,8 @@ primitive 'DIODE_SMD_D_1206_1N4148W';
   end_pin;
   body
     PART_NAME='DIODE';
-    JEDEC_TYPE='SMD_D_1206';
-    VALUE='1N4148W';
-  end_body;
-end_primitive;
-primitive 'DIODE_DO-214AB_1N5822';
-  pin
-    'A':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'K':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='DIODE';
-    JEDEC_TYPE='DO-214AB';
-    VALUE='1N5822';
+    JEDEC_TYPE='SMAF';
+    VALUE='SS32F';
   end_body;
 end_primitive;
 primitive 'FUSE_SMD_R_0805_2A';

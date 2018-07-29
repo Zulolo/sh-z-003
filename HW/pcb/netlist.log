@@ -1,96 +1,91 @@
-{ Using PSTWRITER 17.2.0 d001Jul-27-2018 at 22:45:11 }
+{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 16:44:44 }
 
-#1 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.43" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_4".
-#2 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.44" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_5".
-#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.45" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_6".
-#4 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.46" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_7".
-#5 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.67" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_WAKE".
-#6 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.1" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_DOOR".
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.43" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_4".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.44" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_5".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.45" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_6".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.46" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_7".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.67" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_WAKE".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.1" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_DOOR".
 #7 WARNING(ORCAP-36038): "No_connect" property on Pin "D3.3" ignored for D3: SCHEMATIC1, internet (1.10, 3.60). Connecting pin to net "SIM_VDD".
-#8 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.17" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "AI_ELS".
-#9 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.68" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_TX".
-#10 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.78" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "FLASH_SCK".
-#11 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.13" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "N4628507".
-#12 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.69" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_RX".
-#13 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.80" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "FLASH_MOSI".
-#14 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.12" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "N4628321".
-#15 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.77" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "FLASH_CS".
-#16 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.42" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_3".
-#17 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.40" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_1".
-#18 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.41" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_2".
-#19 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.39" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "RELAY_0".
-#20 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.79" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "FLASH_MISO".
-#21 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.29" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_RS485_DIR".
-#22 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.25" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_RS485_TX".
-#23 WARNING(ORCAP-36038): "No_connect" property on Pin "J11.2" ignored for J11: SCHEMATIC1, power (8.20, 3.10). Connecting pin to net "USB-".
-#24 WARNING(ORCAP-36038): "No_connect" property on Pin "J11.3" ignored for J11: SCHEMATIC1, power (8.20, 3.10). Connecting pin to net "USB+".
-#25 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.59" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "DI_TTL_4".
-#26 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.60" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "DI_TTL_5".
-#27 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.61" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "DI_TTL_6".
-#28 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.62" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "DI_TTL_7".
-#29 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.95" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_I2C_SCL".
-#30 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.93" ignored for MCU1: SCHEMATIC1, control (3.00, 1.50). Connecting pin to net "MCU_I2C_SDA".
-#31 WARNING(ORCAP-36042): Pin "C" is renamed to "C#1" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
-#32 WARNING(ORCAP-36042): Pin "C" is renamed to "C#3" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
-#33 WARNING(ORCAP-36042): Pin "C" is renamed to "C#4" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
-#34 WARNING(ORCAP-36042): Pin "C" is renamed to "C#5" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
-#35 WARNING(ORCAP-36042): Pin "C" is renamed to "C#6" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
-#36 WARNING(ORCAP-36042): Pin "IO" is renamed to "IO#1" as visible power pin of same name already exists in Package SM712 , D4: SCHEMATIC1, power (4.00, 1.20).
-#37 WARNING(ORCAP-36042): Pin "IO" is renamed to "IO#2" as visible power pin of same name already exists in Package SM712 , D4: SCHEMATIC1, power (4.00, 1.20).
-#38 WARNING(ORCAP-36006): Part Name "MICROUSB_SOCKET_MICROUSB_2FIX_USB_SOCKET" is renamed to "MICROUSB_SOCKET_MICROUSB_2FIX_U".
-#39 WARNING(ORCAP-36006): Part Name "SIM_CARD_SLOT_1_MICRO-SIM_MICRO SIM" is renamed to "SIM_CARD_SLOT_1_MICRO-SIM_MICRO".
-#40 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#1" as visible power pin of same name already exists in Package SIM_card_slot_1 , J6: SCHEMATIC1, internet (1.20, 0.40).
-#41 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#8" as visible power pin of same name already exists in Package SIM_card_slot_1 , J6: SCHEMATIC1, internet (1.20, 0.40).
-#42 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J7: SCHEMATIC1, internet (4.90, 0.40).
-#43 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J7: SCHEMATIC1, internet (4.90, 0.40).
-#44 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J8: SCHEMATIC1, internet (8.20, 2.00).
-#45 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J8: SCHEMATIC1, internet (8.20, 2.00).
-#46 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J9: SCHEMATIC1, internet (8.30, 3.90).
-#47 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J9: SCHEMATIC1, internet (8.30, 3.90).
-#48 WARNING(ORCAP-36006): Part Name "STM32F407VET_LQFP100_STM32F407VET6" is renamed to "STM32F407VET_LQFP100_STM32F407V".
-#49 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#10" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#50 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#11" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#51 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#19" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#52 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#27" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#53 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#28" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#54 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#50" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#55 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#74" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#56 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#75" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#57 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#99" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#58 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#100" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (3.00, 1.50).
-#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#64 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#65 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#38" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#66 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#39" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#40" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#41" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#43" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#57" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#58" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#60" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#73 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#61" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#74 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#62" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#75 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#63" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#64" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#65" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#77" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#78" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#80 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#81 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#81" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#82 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#1" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#83 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#4" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#84 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#8" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#85 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#9" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#86 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#14" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#87 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#2" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
-#88 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#4" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
-#89 WARNING(ORCAP-36006): Part Name "CRYSTAL-4PIN_1_SMD3225_CRYSTAL_16M" is renamed to "CRYSTAL-4PIN_1_SMD3225_CRYSTAL_".
-#90 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package crystal-4pin_1 , Y1: SCHEMATIC1, control (1.50, 2.30).
-#91 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package crystal-4pin_1 , Y1: SCHEMATIC1, control (1.50, 2.30).
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.17" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "AI_ELS".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.68" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_TX".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.78" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "FLASH_SCK".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.69" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_RX".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.80" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "FLASH_MOSI".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.77" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "FLASH_CS".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.42" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_3".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.40" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_1".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.41" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_2".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.39" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_0".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.79" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "FLASH_MISO".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.24" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_RS485_DIR".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.25" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_RS485_TX".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "J11.2" ignored for J11: SCHEMATIC1, power (8.20, 3.10). Connecting pin to net "USB-".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "J11.3" ignored for J11: SCHEMATIC1, power (8.20, 3.10). Connecting pin to net "USB+".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.59" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "DI_TTL_4".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.60" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "DI_TTL_5".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.61" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "DI_TTL_6".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.62" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "DI_TTL_7".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.95" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_I2C_SCL".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.93" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "MCU_I2C_SDA".
+#29 WARNING(ORCAP-36042): Pin "C" is renamed to "C#1" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
+#30 WARNING(ORCAP-36042): Pin "C" is renamed to "C#3" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
+#31 WARNING(ORCAP-36042): Pin "C" is renamed to "C#4" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
+#32 WARNING(ORCAP-36042): Pin "C" is renamed to "C#5" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
+#33 WARNING(ORCAP-36042): Pin "C" is renamed to "C#6" as visible power pin of same name already exists in Package SMF05C , D3: SCHEMATIC1, internet (1.10, 3.60).
+#34 WARNING(ORCAP-36042): Pin "IO" is renamed to "IO#1" as visible power pin of same name already exists in Package SM712 , D4: SCHEMATIC1, power (4.00, 1.20).
+#35 WARNING(ORCAP-36042): Pin "IO" is renamed to "IO#2" as visible power pin of same name already exists in Package SM712 , D4: SCHEMATIC1, power (4.00, 1.20).
+#36 WARNING(ORCAP-36006): Part Name "MICROUSB_SOCKET_MICROUSB_2FIX_USB_SOCKET" is renamed to "MICROUSB_SOCKET_MICROUSB_2FIX_U".
+#37 WARNING(ORCAP-36006): Part Name "SIM_CARD_SLOT_1_MICRO-SIM_MICRO SIM" is renamed to "SIM_CARD_SLOT_1_MICRO-SIM_MICRO".
+#38 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#1" as visible power pin of same name already exists in Package SIM_card_slot_1 , J6: SCHEMATIC1, internet (1.20, 0.40).
+#39 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#8" as visible power pin of same name already exists in Package SIM_card_slot_1 , J6: SCHEMATIC1, internet (1.20, 0.40).
+#40 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J7: SCHEMATIC1, internet (4.90, 0.40).
+#41 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J7: SCHEMATIC1, internet (4.90, 0.40).
+#42 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J8: SCHEMATIC1, internet (8.20, 2.00).
+#43 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J8: SCHEMATIC1, internet (8.20, 2.00).
+#44 WARNING(ORCAP-36042): Pin "G" is renamed to "G#1" as visible power pin of same name already exists in Package IPX_0 , J9: SCHEMATIC1, internet (8.30, 3.90).
+#45 WARNING(ORCAP-36042): Pin "G" is renamed to "G#3" as visible power pin of same name already exists in Package IPX_0 , J9: SCHEMATIC1, internet (8.30, 3.90).
+#46 WARNING(ORCAP-36006): Part Name "STM32F407VET_LQFP100_STM32F407VET6" is renamed to "STM32F407VET_LQFP100_STM32F407V".
+#47 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#10" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#48 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#11" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#49 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#19" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#50 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#27" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#51 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#28" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#52 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#50" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#53 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#74" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#54 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#75" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#55 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#99" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#56 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#100" as visible power pin of same name already exists in Package STM32F407VET , MCU1: SCHEMATIC1, control (2.50, 1.50).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#14" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#37" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#63 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#38" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#64 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#39" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#40" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#66 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#41" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#43" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#57" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#58" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#60" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#61" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#72 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#62" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#73 WARNING(ORCAP-36042): Pin "VBAT" is renamed to "VBAT#63" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#74 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#64" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#75 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#65" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#76 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#77" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#78" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#81" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
+#80 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#1" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
+#81 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#4" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
+#82 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#8" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
+#83 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#9" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
+#84 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#14" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
+#85 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#2" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
+#86 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#4" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... G:\WORK\SH-Z-003\DESIGN\HW\PCB/pstchip.dat

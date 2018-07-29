@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jul-27-2018 at 22:44:56}
+{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 10:57:31}
 primitive 'CAP NP_SMD_C_0805_100NF';
   pin
     '1':
@@ -13,21 +13,6 @@ primitive 'CAP NP_SMD_C_0805_100NF';
     PART_NAME='CAP NP';
     JEDEC_TYPE='SMD_C_0805';
     VALUE='100nF';
-  end_body;
-end_primitive;
-primitive 'CAP NP_SMD_C_0805_22PF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='SMD_C_0805';
-    VALUE='22pF';
   end_body;
 end_primitive;
 primitive 'CAP NP_SMD_C_0805_10UF';
@@ -930,21 +915,6 @@ primitive 'RESISTOR_SMD_R_0805_10K';
     VALUE='10K';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SMD_R_0805_1K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR';
-    JEDEC_TYPE='SMD_R_0805';
-    VALUE='1K';
-  end_body;
-end_primitive;
 primitive 'RESISTOR_SMD_R_0805_22R';
   pin
     '1':
@@ -990,7 +960,7 @@ primitive 'RESISTOR_SMD_R_0805_4.7K';
     VALUE='4.7K';
   end_body;
 end_primitive;
-primitive 'RESISTOR_SMD_R_0805_1M';
+primitive 'RESISTOR_SMD_R_0805_1K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -1002,7 +972,7 @@ primitive 'RESISTOR_SMD_R_0805_1M';
   body
     PART_NAME='RESISTOR';
     JEDEC_TYPE='SMD_R_0805';
-    VALUE='1M';
+    VALUE='1K';
   end_body;
 end_primitive;
 primitive 'RESISTOR_SMD_R_0805_47K';
@@ -1525,27 +1495,6 @@ primitive 'AMS1117-33_SOT-223_AMS1117-33';
     PART_NAME='AMS1117-33';
     JEDEC_TYPE='SOT-223';
     VALUE='AMS1117-33';
-  end_body;
-end_primitive;
-primitive 'CRYSTAL-4PIN_1_SMD3225_CRYSTAL_';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    'GND#2':
-      PIN_NUMBER='(2)';
-      PINUSE='POWER';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    'GND#4':
-      PIN_NUMBER='(4)';
-      PINUSE='POWER';
-  end_pin;
-  body
-    PART_NAME='crystal-4pin_1';
-    JEDEC_TYPE='SMD3225_crystal';
-    VALUE='16M';
   end_body;
 end_primitive;
 END.
