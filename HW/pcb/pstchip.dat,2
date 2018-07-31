@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 10:57:31}
+{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 16:44:45}
 primitive 'CAP NP_SMD_C_0805_100NF';
   pin
     '1':
@@ -225,7 +225,7 @@ primitive 'DIODE_SMAF_SS32F';
     VALUE='SS32F';
   end_body;
 end_primitive;
-primitive 'FUSE_SMD_R_0805_2A';
+primitive 'FUSE_SMD_R_1206_2A';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -236,7 +236,7 @@ primitive 'FUSE_SMD_R_0805_2A';
   end_pin;
   body
     PART_NAME='FUSE';
-    JEDEC_TYPE='SMD_R_0805';
+    JEDEC_TYPE='SMD_R_1206';
     VALUE='2A';
   end_body;
 end_primitive;

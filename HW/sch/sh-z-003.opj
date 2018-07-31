@@ -162,19 +162,18 @@
       (Path "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" "g:\work\sh-z-003\design\hw\sch\sh-z-003.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 558"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 558"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1769 156 753")
-        (Scroll "-132 0")
+        (Scroll "-132 90")
         (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
@@ -184,8 +183,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 260 1579 260 857")
-        (Scroll "0 769")
-        (Zoom "268")
+        (Scroll "0 0")
+        (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")
@@ -193,9 +192,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "0 0")
-        (Zoom "134")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1345 26 623")
+        (Scroll "0 255")
+        (Zoom "268")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")

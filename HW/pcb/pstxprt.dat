@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 16:44:45 }
+{ Using PSTWRITER 17.2.0 d001Jul-31-2018 at 22:31:06 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SH-Z-003';
@@ -1128,12 +1128,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U4 'RX-8025SA_0_SOP14_RX-8025SA':;
+ U4 'RX-8025SA_2_SOP14_RX-8025SA':;
 
 SECTION_NUMBER 1
- '@SH-Z-003.SCHEMATIC1(SCH_1):INS4653916@SH-Z-003.RX-8025SA_0.NORMAL(CHIPS)':
- C_PATH='@\sh-z-003\.schematic1(sch_1):ins4653916@\sh-z-003\.\rx-8025sa_0.normal\(chips)',
- P_PATH='@\sh-z-003\.schematic1(sch_1):page4_ins4653916@\sh-z-003\.\rx-8025sa_0.normal\(chips)',
+ '@SH-Z-003.SCHEMATIC1(SCH_1):INS4653916@SH-Z-003.RX-8025SA_2.NORMAL(CHIPS)':
+ C_PATH='@\sh-z-003\.schematic1(sch_1):ins4653916@\sh-z-003\.\rx-8025sa_2.normal\(chips)',
+ P_PATH='@\sh-z-003\.schematic1(sch_1):page4_ins4653916@\sh-z-003\.\rx-8025sa_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

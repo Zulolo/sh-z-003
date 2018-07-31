@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 16:44:44 }
+{ Using PSTWRITER 17.2.0 d001Jul-31-2018 at 22:31:05 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.43" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_4".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "MCU1.44" ignored for MCU1: SCHEMATIC1, control (2.50, 1.50). Connecting pin to net "RELAY_5".
@@ -79,13 +79,8 @@
 #77 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#78" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
 #78 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#80" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
 #79 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#81" as visible power pin of same name already exists in Package SIM7600CE , U2: SCHEMATIC1, internet (4.70, 1.60).
-#80 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#1" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#81 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#4" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#82 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#8" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#83 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#9" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#84 WARNING(ORCAP-36042): Pin "NA" is renamed to "NA#14" as visible power pin of same name already exists in Package RX-8025SA_0 , U4: SCHEMATIC1, power (3.20, 2.60).
-#85 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#2" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
-#86 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#4" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
+#80 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#2" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
+#81 WARNING(ORCAP-36042): Pin "Vout" is renamed to "VOUT#4" as visible power pin of same name already exists in Package AMS1117-33 , U6: SCHEMATIC1, power (0.50, 5.50).
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... G:\WORK\SH-Z-003\DESIGN\HW\PCB/pstchip.dat

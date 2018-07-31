@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jul-29-2018 at 16:44:45}
+{ Using PSTWRITER 17.2.0 d001Jul-31-2018 at 22:31:06}
 primitive 'CAP NP_SMD_C_0805_100NF';
   pin
     '1':
@@ -1401,20 +1401,20 @@ primitive 'SN65HVD72DR_SOIC8_SN65HVD72DR';
     VALUE='SN65HVD72DR';
   end_body;
 end_primitive;
-primitive 'RX-8025SA_0_SOP14_RX-8025SA';
+primitive 'RX-8025SA_2_SOP14_RX-8025SA';
   pin
-    'NA#1':
+    'NC_1':
       PIN_NUMBER='(1)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'SCL':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
     'FOUT':
       PIN_NUMBER='(3)';
       PINUSE='UNSPEC';
-    'NA#4':
+    'NC_2':
       PIN_NUMBER='(4)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'TEST':
       PIN_NUMBER='(5)';
       PINUSE='UNSPEC';
@@ -1424,12 +1424,12 @@ primitive 'RX-8025SA_0_SOP14_RX-8025SA';
     'FOE':
       PIN_NUMBER='(7)';
       PINUSE='UNSPEC';
-    'NA#8':
+    'NC_3':
       PIN_NUMBER='(8)';
-      PINUSE='POWER';
-    'NA#9':
+      PINUSE='UNSPEC';
+    'NC_4':
       PIN_NUMBER='(9)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     '/INTA':
       PIN_NUMBER='(10)';
       PINUSE='UNSPEC';
@@ -1442,12 +1442,12 @@ primitive 'RX-8025SA_0_SOP14_RX-8025SA';
     'SDA':
       PIN_NUMBER='(13)';
       PINUSE='UNSPEC';
-    'NA#14':
+    'NC_5':
       PIN_NUMBER='(14)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='RX-8025SA_0';
+    PART_NAME='RX-8025SA_2';
     JEDEC_TYPE='SOP14';
     VALUE='RX-8025SA';
   end_body;
