@@ -173,7 +173,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1769 156 753")
-        (Scroll "-132 90")
+        (Scroll "-132 0")
         (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
@@ -193,8 +193,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "0 255")
-        (Zoom "268")
+        (Scroll "-254 -9")
+        (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
       (Schematic "SCHEMATIC1")

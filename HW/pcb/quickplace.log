@@ -4,24 +4,18 @@
 (                                                                     )
 (    Drawing          : sh-z-003.brd                                  )
 (    Software Version : 17.2S007                                      )
-(    Date/Time        : Sun Jul 29 15:49:34 2018                      )
+(    Date/Time        : Thu Aug 02 20:43:59 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 State: Placing on layer TOP
 
-         Placed symbol:  C11 / CAP NP_SMD_C_0805_100NF / SMD_C_0805 at (81.7764 3.8064)
-         Placed symbol:  C39 / CAP NP_SMD_C_0805_100NF / SMD_C_0805 at (1.7764 109.7976)
-         Placed symbol:  C38 / CAP POL_SMD_C_P_7343_100UF / SMD_C_P_7343 at (5.5764 109.7860)
-         Placed symbol:  R16 / RESISTOR_SMD_R_0805_1K / SMD_R_0805 at (10.0528 109.7976)
-         Placed symbol:  R5 / RESISTOR_SMD_R_0805_1K / SMD_R_0805 at (12.6792 109.7976)
-         Placed symbol:  R12 / RESISTOR_SMD_R_0805_22R / SMD_R_0805 at (15.3056 109.7976)
-         Placed symbol:  R21 / RESISTOR_SMD_R_0805_1.2K / SMD_R_0805 at (17.9320 109.7976)
-         Placed symbol:  R24 / RESISTOR_SMD_R_0805_10R / SMD_R_0805 at (20.5584 109.7976)
+         Placed symbol:  C45 / CAP NP_SMD_C_0805_100NF / SMD_C_0805 at (81.7764 3.8064)
+         Placed symbol:  C46 / CAP NP_SMD_C_0805_100NF / SMD_C_0805 at (1.7764 118.1976)
 
 
-Placed 8 of 8 applicable (8 total) symbols.
+Placed 2 of 2 applicable (2 total) symbols.
 
 -----------------------------------------------------------------------
 
