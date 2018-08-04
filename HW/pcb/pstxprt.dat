@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Aug-02-2018 at 20:47:21 }
+{ Using PSTWRITER 17.2.0 d001Aug-04-2018 at 16:09:11 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SH-Z-003';
@@ -668,12 +668,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- J6 'SIM_CARD_SLOT_1_MICRO-SIM_MICRO':;
+ J6 'SIM_CARD_SLOT_2_MICRO-SIM_MICRO':;
 
 SECTION_NUMBER 1
- '@SH-Z-003.SCHEMATIC1(SCH_1):INS4668524@SH-Z-003.SIM_CARD_SLOT_1.NORMAL(CHIPS)':
- C_PATH='@\sh-z-003\.schematic1(sch_1):ins4668524@\sh-z-003\.\sim_card_slot_1.normal\(chips)',
- P_PATH='@\sh-z-003\.schematic1(sch_1):page3_ins4668524@\sh-z-003\.\sim_card_slot_1.normal\(chips)',
+ '@SH-Z-003.SCHEMATIC1(SCH_1):INS4668524@SH-Z-003.SIM_CARD_SLOT_2.NORMAL(CHIPS)':
+ C_PATH='@\sh-z-003\.schematic1(sch_1):ins4668524@\sh-z-003\.\sim_card_slot_2.normal\(chips)',
+ P_PATH='@\sh-z-003\.schematic1(sch_1):page3_ins4668524@\sh-z-003\.\sim_card_slot_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

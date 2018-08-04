@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jul-31-2018 at 22:31:06 }
+{ Using PSTWRITER 17.2.0 d001Aug-02-2018 at 20:43:41 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SH-Z-003';
@@ -394,6 +394,26 @@ SECTION_NUMBER 1
  '@SH-Z-003.SCHEMATIC1(SCH_1):INS3822356@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\sh-z-003\.schematic1(sch_1):ins3822356@discrete.\cap np.normal\(chips)',
  P_PATH='@\sh-z-003\.schematic1(sch_1):page4_ins3822356@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_SMD_C_0805_100NF':;
+
+SECTION_NUMBER 1
+ '@SH-Z-003.SCHEMATIC1(SCH_1):INS4690376@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sh-z-003\.schematic1(sch_1):ins4690376@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sh-z-003\.schematic1(sch_1):page1_ins4690376@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_SMD_C_0805_100NF':;
+
+SECTION_NUMBER 1
+ '@SH-Z-003.SCHEMATIC1(SCH_1):INS4690406@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\sh-z-003\.schematic1(sch_1):ins4690406@discrete.\cap np.normal\(chips)',
+ P_PATH='@\sh-z-003\.schematic1(sch_1):page1_ins4690406@discrete.\cap np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

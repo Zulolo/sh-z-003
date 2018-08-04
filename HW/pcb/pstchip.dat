@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Aug-02-2018 at 20:47:21}
+{ Using PSTWRITER 17.2.0 d001Aug-04-2018 at 16:09:11}
 primitive 'CAP NP_SMD_C_0805_100NF';
   pin
     '1':
@@ -456,11 +456,11 @@ primitive 'C1X2_C1X2NEW_DOOR';
     VALUE='DOOR';
   end_body;
 end_primitive;
-primitive 'SIM_CARD_SLOT_1_MICRO-SIM_MICRO';
+primitive 'SIM_CARD_SLOT_2_MICRO-SIM_MICRO';
   pin
-    'NA#1':
+    'NA_1':
       PIN_NUMBER='(1)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
     'GND':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
@@ -479,12 +479,12 @@ primitive 'SIM_CARD_SLOT_1_MICRO-SIM_MICRO';
     'CLK':
       PIN_NUMBER='(7)';
       PINUSE='UNSPEC';
-    'NA#8':
+    'NA_2':
       PIN_NUMBER='(8)';
-      PINUSE='POWER';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SIM_card_slot_1';
+    PART_NAME='SIM_card_slot_2';
     JEDEC_TYPE='micro-SIM';
     VALUE='MICRO SIM';
   end_body;
