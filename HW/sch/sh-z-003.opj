@@ -167,7 +167,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 558"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 558"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -192,8 +192,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1345 26 623")
-        (Scroll "-254 -9")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1345 26 623")
+        (Scroll "0 0")
         (Zoom "134")
         (Occurrence "/"))
       (Path "G:\WORK\SH-Z-003\DESIGN\HW\SCH\SH-Z-003.DSN")
