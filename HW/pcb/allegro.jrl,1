@@ -1,169 +1,23 @@
-\t (00:00:01) allegro 17.2 S007 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Aug 05 17:16:35 2018
-\t (00:00:01)         Host=ZULOLO-PC User=dodol Pid=73128 CPUs=8
-\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-   (00:00:01) *Error* load: can't access file - "J:\\Cadence\\pcbenv\\DstCxi.il"
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: G:/Work/sh-z-003/design/HW/pcb/sh-z-003_nc.brd
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 2793
-\i (00:00:04) trapsize 2857
-\t (00:00:04) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:04) trapsize 2857
-\i (00:00:04) etchedit 
-\i (00:00:14) draft chamfer 
-\t (00:00:14) Pick first segment to be chamferred ...
-\i (00:00:23) setwindow form.mini
-\i (00:00:23) FORM mini trim_seg1 0.7000 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in -1.7714 76.9716
-\t (00:00:26) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:26) trapsize 1429
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in -1.7714 76.9716
-\i (00:00:26) trapsize 714
-\i (00:00:27) pick grid 0.3572 77.0145
-\t (00:00:27) last pick:  0.4000 77.0000
-\t (00:00:27) Pick second segment ...
-\i (00:00:28) pick grid -0.0285 76.6860
-\t (00:00:28) last pick:  0.0000 76.7000
-\t (00:00:28) Pick first segment to be chamferred ...
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 1.0858 74.6145
-\i (00:00:28) trapsize 1429
-\i (00:00:29) prepopup 2.5144 78.3288
-\i (00:00:30) cancel 
-\i (00:00:30) etchedit 
-\i (00:00:34) draft fillet 
-\t (00:00:34) Pick first segment to be filletted ...
-\i (00:00:37) setwindow form.mini
-\i (00:00:37) FORM mini radius 0.5000 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) pick grid 0.6001 77.0717
-\t (00:00:40) last pick:  0.6000 77.1000
-\t (00:00:40) Pick second segment ...
-\i (00:00:41) pick grid 0.0858 76.2146
-\t (00:00:41) last pick:  0.1000 76.2000
-\t (00:00:41) Pick first segment to be filletted ...
-\i (00:00:42) zoom out 1 
-\i (00:00:42) setwindow pcb
-\i (00:00:42) zoom out 0.1716 75.9860
-\t (00:00:42) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:42) trapsize 2857
-\i (00:00:43) zoom in 1 
-\i (00:00:43) setwindow pcb
-\i (00:00:43) zoom in 69.1431 78.9003
-\t (00:00:43) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:43) trapsize 1429
-\i (00:00:44) pick grid 66.5716 77.1003
-\t (00:00:44) last pick:  66.6000 77.1000
-\t (00:00:44) Pick second segment ...
-\i (00:00:44) pick grid 66.9145 76.2432
-\t (00:00:44) last pick:  66.9000 76.2000
-\t (00:00:44) Pick first segment to be filletted ...
-\i (00:00:45) zoom out 1 
-\i (00:00:45) setwindow pcb
-\i (00:00:45) zoom out 67.9431 73.7575
-\t (00:00:45) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:00:45) trapsize 2857
-\i (00:00:46) roam start
-\i (00:00:46) roam x 64
-\i (00:00:46) roam y 224
-\i (00:00:46) roam x 48
-\i (00:00:46) roam y 176
-\i (00:00:46) roam y 112
-\i (00:00:46) roam x 16
-\i (00:00:46) roam y 144
-\i (00:00:46) roam x 16
-\i (00:00:46) roam y 128
-\i (00:00:46) roam x -16
-\i (00:00:46) roam y 128
-\i (00:00:46) roam x -16
-\i (00:00:46) roam x -32
-\i (00:00:46) roam end
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in -2.0000 4.5714
-\t (00:00:47) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:47) trapsize 1429
-\i (00:00:47) zoom in 1 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) zoom in -1.9999 4.4858
-\i (00:00:47) trapsize 714
-\i (00:00:48) roam start
-\i (00:00:48) roam y 32
-\i (00:00:48) roam x 16
-\i (00:00:48) roam y 96
-\i (00:00:48) roam x 16
-\i (00:00:48) roam y 128
-\i (00:00:48) roam y 16
-\i (00:00:48) roam y 32
-\i (00:00:48) roam end
-\i (00:00:50) pick grid 0.0000 0.6429
-\t (00:00:50) last pick:  0.0000 0.6000
-\t (00:00:50) Pick second segment ...
-\i (00:00:51) pick grid 0.3000 0.0286
-\t (00:00:51) last pick:  0.3000 0.0000
-\t (00:00:51) Pick first segment to be filletted ...
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 1.5714 -1.7571
-\i (00:00:51) trapsize 1429
-\i (00:00:52) roam start
-\i (00:00:52) roam x 80
-\i (00:00:52) roam x 288
-\i (00:00:52) roam y -32
-\i (00:00:52) roam x 192
-\i (00:00:52) roam y -16
-\i (00:00:52) roam x 304
-\i (00:00:52) roam y -32
-\i (00:00:52) roam x 128
-\i (00:00:52) roam y -16
-\i (00:00:52) roam x 224
-\i (00:00:52) roam y -16
-\i (00:00:52) roam x 80
-\i (00:00:52) roam x 48
-\i (00:00:52) roam end
-\i (00:00:54) pick grid 66.9430 0.8285
-\t (00:00:54) last pick:  66.9000 0.8000
-\t (00:00:54) Pick second segment ...
-\i (00:00:54) pick grid 66.4287 0.1143
-\t (00:00:54) last pick:  66.4000 0.1000
-\t (00:00:54) Pick first segment to be filletted ...
-\i (00:00:55) prepopup 69.4573 5.2857
-\i (00:00:55) done 
-\i (00:00:55) etchedit 
-\i (00:00:57) save 
-\i (00:00:58) fillin yes 
-\i (00:00:58) etchedit 
-\i (00:01:00) artwork 
-\i (00:01:02) setwindow form.film_control
-\i (00:01:02) FORM film_control select_all  
-\i (00:01:03) FORM film_control create  
-\i (00:01:05) fillin yes 
-\t (00:01:05) Checking db records
-\t (00:01:05)     checking for orphans...
-\t (00:01:05)     Checked  55 percent
-\t (00:01:05)     Checked 100 percent
-\t (00:01:05) Done dbdoctor.
-\t (00:01:05) Starting Create artwork films...
-\w (00:01:06) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:01:07) Artwork generated with warnings.
-\i (00:01:11) setwindow text
-\i (00:01:11) close 
-\i (00:01:12) setwindow form.film_control
-\i (00:01:12) FORM film_control ok  
-\i (00:01:12) setwindow pcb
-\i (00:01:12) etchedit 
-\i (00:01:13) save 
-\i (00:01:15) fillin yes 
-   (00:01:15) Loading signal.cxt 
-\i (00:01:15) etchedit 
-\i (00:07:15) exit 
-\t (00:07:15)     Journal end - Sun Aug 05 17:23:49 2018
+\t (00:00:00) allegro 17.2 S007 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Aug 06 22:23:46 2018
+\t (00:00:00)         Host=ZULOLO-PC User=dodol Pid=86320 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+   (00:00:00) *Error* load: can't access file - "J:\\Cadence\\pcbenv\\DstCxi.il"
+\t (00:00:01) Opening existing design...
+\d (00:00:02) Design opened: G:/Work/sh-z-003/design/HW/pcb/sh-z-003_nc.brd
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:02) trapsize 1397
+\i (00:00:02) trapsize 1429
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:02) trapsize 1429
+\i (00:00:02) etchedit 
+\i (00:00:05) open 
+\i (00:00:25) fillin "G:\Cadence\Package_Symbol\SOD123.dra"
+\i (00:00:25) cd "G:\Cadence\Package_Symbol"
+\t (00:00:25) Opening existing design...
+\i (00:00:25) trapsize 335
+\i (00:00:25) trapsize 343
+\i (00:00:25) trapsize 343
+\t (00:00:25)     Journal end - Mon Aug 06 22:24:10 2018

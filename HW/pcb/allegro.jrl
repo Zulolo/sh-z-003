@@ -1,23 +1,153 @@
-\t (00:00:00) allegro 17.2 S007 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Aug 06 22:23:46 2018
-\t (00:00:00)         Host=ZULOLO-PC User=dodol Pid=86320 CPUs=8
-\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-   (00:00:00) *Error* load: can't access file - "J:\\Cadence\\pcbenv\\DstCxi.il"
-\t (00:00:01) Opening existing design...
-\d (00:00:02) Design opened: G:/Work/sh-z-003/design/HW/pcb/sh-z-003_nc.brd
-\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:02) trapsize 1397
-\i (00:00:02) trapsize 1429
-\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:02) trapsize 1429
-\i (00:00:02) etchedit 
-\i (00:00:05) open 
-\i (00:00:25) fillin "G:\Cadence\Package_Symbol\SOD123.dra"
-\i (00:00:25) cd "G:\Cadence\Package_Symbol"
-\t (00:00:25) Opening existing design...
-\i (00:00:25) trapsize 335
-\i (00:00:25) trapsize 343
-\i (00:00:25) trapsize 343
-\t (00:00:25)     Journal end - Mon Aug 06 22:24:10 2018
+\t (00:00:22) allegro 17.2 S007 Windows SPB 64-bit Edition
+\t (00:00:22)     Journal start - Sat Aug 25 15:52:55 2018
+\t (00:00:22)         Host=ZULOLO-PC User=dodol Pid=58260 CPUs=8
+\t (00:00:22) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:22) 
+\d (00:00:22) Design opened: G:/Work/sh-z-003/design/HW/pcb/sh-z-003_nc.brd
+\i (00:00:22) etchedit 
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 41.0287 12.0030
+\t (00:00:22) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:22) trapsize 2864
+\i (00:00:23) roam start
+\i (00:00:23) roam y -16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y -112
+\i (00:00:23) roam x -32
+\i (00:00:23) roam y -112
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y -96
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y -64
+\i (00:00:23) roam y -32
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y -32
+\i (00:00:24) roam y -32
+\i (00:00:24) roam y -48
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y -80
+\i (00:00:24) roam y -48
+\i (00:00:24) roam y -16
+\i (00:00:24) roam y -32
+\i (00:00:24) roam y -32
+\i (00:00:24) roam y -160
+\i (00:00:24) roam y -80
+\i (00:00:24) roam y -112
+\i (00:00:24) roam y -32
+\i (00:00:24) roam x -48
+\i (00:00:24) roam y 96
+\i (00:00:24) roam x -48
+\i (00:00:24) roam y 128
+\i (00:00:24) roam x -32
+\i (00:00:24) roam y 80
+\i (00:00:24) roam x -32
+\i (00:00:24) roam y 64
+\i (00:00:24) roam y 48
+\i (00:00:25) roam end
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 35.9382 49.6220
+\t (00:00:25) Grids are drawn 0.8000, 0.8000 apart for enhanced viewability.
+\i (00:00:25) trapsize 5727
+\i (00:00:26) roam start
+\i (00:00:26) roam y 80
+\i (00:00:26) roam y 32
+\i (00:00:26) roam y 48
+\i (00:00:26) roam y 16
+\i (00:00:26) roam y 16
+\i (00:00:26) roam end
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini subcolor 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 45.2738 52.3138
+\t (00:00:33) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:33) trapsize 2864
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 64.1168 28.2588
+\t (00:00:50) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:50) trapsize 1432
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 64.1169 28.2588
+\i (00:00:50) trapsize 716
+\i (00:00:51) roam start
+\i (00:00:51) roam x -32
+\i (00:00:51) roam y 48
+\i (00:00:51) roam x -64
+\i (00:00:51) roam y 96
+\i (00:00:51) roam x -16
+\i (00:00:51) roam y 16
+\i (00:00:51) roam end
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 64.1025 31.7239
+\i (00:00:52) trapsize 358
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 65.1478 31.6093
+\i (00:00:54) trapsize 179
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 65.1479 31.6093
+\i (00:00:55) trapsize 358
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 63.5585 31.6953
+\i (00:02:34) trapsize 716
+\i (00:02:34) zoom out 1 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 63.5584 31.6952
+\i (00:02:34) trapsize 1432
+\i (00:02:35) roam start
+\i (00:02:35) roam x -32
+\i (00:02:35) roam y -112
+\i (00:02:35) roam x -48
+\i (00:02:35) roam y -128
+\i (00:02:35) roam x -32
+\i (00:02:35) roam y -128
+\i (00:02:35) roam x -48
+\i (00:02:35) roam y -112
+\i (00:02:35) roam x -48
+\i (00:02:35) roam y -64
+\i (00:02:35) roam x -48
+\i (00:02:35) roam y -80
+\i (00:02:35) roam x -64
+\i (00:02:35) roam y -80
+\i (00:02:35) roam x -32
+\i (00:02:35) roam y -48
+\i (00:02:35) roam x -64
+\i (00:02:35) roam y -112
+\i (00:02:35) roam x -64
+\i (00:02:35) roam y -96
+\i (00:02:35) roam x -144
+\i (00:02:35) roam y -192
+\i (00:02:35) roam x -80
+\i (00:02:35) roam y -144
+\i (00:02:35) roam x -16
+\i (00:02:35) roam y -64
+\i (00:02:35) roam x -48
+\i (00:02:35) roam y -64
+\i (00:02:36) roam y -16
+\i (00:02:36) roam x -16
+\i (00:02:36) roam y -32
+\i (00:02:36) roam x -16
+\i (00:02:36) roam y -32
+\i (00:02:36) roam end
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in 41.0641 70.4124
+\i (00:02:37) trapsize 716
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in 41.0641 70.4124
+\i (00:02:37) trapsize 358
+\i (00:02:38) zoom out 1 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) zoom out 43.2549 69.4960
+\i (00:02:38) trapsize 716
+\i (00:23:51) exit 
+\t (00:23:51)     Journal end - Sat Aug 25 16:16:24 2018

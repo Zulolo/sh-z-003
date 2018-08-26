@@ -1,0 +1,88 @@
+Configuration	sh-z-003
+STM32CubeMX 	4.26.1
+Date	08/26/2018
+MCU	STM32F407VETx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC3	IN12	ADC3_IN12	PC2
+I2C1	I2C	I2C1_SCL	PB8
+I2C1	I2C	I2C1_SDA	PB7
+SPI3	Full-Duplex Master	SPI3_MISO	PC11
+SPI3	Full-Duplex Master	SPI3_MOSI	PC12
+SPI3	Full-Duplex Master	SPI3_SCK	PC10
+SYS	Trace Asynchronous Sw	SYS_JTMS-SWDIO	PA13
+SYS	Trace Asynchronous Sw	SYS_JTCK-SWCLK	PA14
+SYS	Trace Asynchronous Sw	SYS_JTDO-SWO	PB3
+SYS	TIM1	SYS_VS_tim1	VP_SYS_VS_tim1
+USART1	Asynchronous	USART1_RX	PA10
+USART1	Asynchronous	USART1_TX	PA9
+USART2	Asynchronous	USART2_RX	PA3
+USART2	Asynchronous	USART2_TX	PA2
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+1	PE2	GPIO_Input	DOOR_EXIT
+17	PC2	ADC3_IN12	AI_ELS
+24	PA1	GPIO_Output	METER_RS485_DIR
+25	PA2	USART2_TX	METER_RS485_TX
+26	PA3	USART2_RX	METER_RS485_RX
+39	PE8	GPIO_Output	RELAY_0
+40	PE9	GPIO_Output	RELAY_1
+41	PE10	GPIO_Output	RELAY_2
+42	PE11	GPIO_Output	RELAY_3
+43	PE12	GPIO_Output	RELAY_4
+44	PE13	GPIO_Output	RELAY_5
+45	PE14	GPIO_Output	RELAY_6
+46	PE15	GPIO_Output	RELAY_7
+55	PD8	GPIO_Input	DI_0
+56	PD9	GPIO_Input	DI_1
+57	PD10	GPIO_Input	DI_2
+58	PD11	GPIO_Input	DI_3
+59	PD12	GPIO_Input	DI_4
+60	PD13	GPIO_Input	DI_5
+61	PD14	GPIO_Input	DI_6
+62	PD15	GPIO_Input	DI_7
+67	PA8	GPIO_Output	LTE_WAKE
+68	PA9	USART1_TX	LTE_TX
+69	PA10	USART1_RX	LTE_RX
+72	PA13	SYS_JTMS-SWDIO	
+76	PA14	SYS_JTCK-SWCLK	
+77	PA15	GPIO_Output	FLASh_SPI3_CS
+78	PC10	SPI3_SCK	FLASH_SPI3_SCK
+79	PC11	SPI3_MISO	FLASH_SPI3_MISO
+80	PC12	SPI3_MOSI	FLASH_SPI3_MOSI
+84	PD3	GPIO_Output	OTHER_RS485_DIR
+89	PB3	SYS_JTDO-SWO	
+93	PB7	I2C1_SDA	RTC_EXTERN_SDA
+95	PB8	I2C1_SCL	RTC_EXTERN_SCL
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : sh-z-003
+Project Folder : G:\Work\sh-z-003\design\code\v1\sh-z-003
+Toolchain / IDE : MDK-ARM V5
+Firmware Package Name and Version : STM32Cube FW_F4 V1.21.0
+
+
+Code Generation Settings : 
+STM32Cube Firmware Library Package : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : Balanced Size/Speed
+
+
+
+
+
+
